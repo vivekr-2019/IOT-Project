@@ -25,6 +25,11 @@ The use of robots to reach places inaccessible to humans has been in practice fo
 4. To provide versatility by allowing the addition of multiple sensors.
 5. To allow for both secure operations by intranet and ease of control by common users through a mobile app.
 
+## Architecture Design
+
+   ![image](https://github.com/vivekr-2019/IOT-Project/assets/86454425/2e1bf8f2-93e9-44df-b6f6-601897611a3a)
+
+
 ## Proposed Model
 
 ### Components Used:
@@ -50,6 +55,14 @@ The use of robots to reach places inaccessible to humans has been in practice fo
 ### 3. Design of User Interface
 - Use MIT App Inventor to create an app for controlling the robot's speed and orientation.
 - Utilize the Arduino Cloud platform as a web-based platform to access sensor-fed data.
+
+## Prototype
+![image](https://github.com/vivekr-2019/IOT-Project/assets/86454425/018286f5-3f51-42d2-ac5d-e24df91d7b42)
+![image](https://github.com/vivekr-2019/IOT-Project/assets/86454425/2e9b21c6-cc7a-42de-ad7b-033c58b69c19)
+
+## Arduino Cloud Analysis
+![image](https://github.com/vivekr-2019/IOT-Project/assets/86454425/cf07490c-c949-43d3-8761-49974066dc6a)
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
