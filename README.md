@@ -50,3 +50,7 @@ The use of robots to reach places inaccessible to humans has been in practice fo
 ### 3. Design of User Interface
 - Use MIT App Inventor to create an app for controlling the robot's speed and orientation.
 - Utilize the Arduino Cloud platform as a web-based platform to access sensor-fed data.
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Please make sure to update tests as appropriate.
